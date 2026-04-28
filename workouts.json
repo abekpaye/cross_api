@@ -1,0 +1,127 @@
+[
+  {
+    "id": "0",
+    "name": "Full Body Burn",
+    "attributes": "Strength, Cardio, Beginner Friendly",
+    "imageUrl": "assets/restaurants/fullbody.jpg",
+    "imageCredits": "",
+    "difficulty": 4,
+    "items": [
+      {"name": "Jumping Jacks", "description": "Full body warm-up exercise to increase heart rate.", "duration": 5, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlNTFnYWxuazJwcGVidmdiNXg5NWY1ZXozZmtiaGI2bWN0dnFpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckMk3RKUK29lziaspI/giphy.gif"},
+      {"name": "Push-ups", "description": "Strengthen chest, shoulders, and triceps.", "duration": 3, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnppbDhmM2hpZWwza3d6ZW05MjZxYjlpNm05Z3Z3MmJpc3FkNmxqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze1qkqPZHMrEuwo/giphy.gif"},
+      {"name": "Squats", "description": "Lower body strength and stability.", "duration": 35, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyYzFwZ2wxanJuZHVkdmphMHVyODZpMzNxd2J3eDN1enlzYWhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHyPJtOwPChKmF0LKg/giphy.gif"},
+      {"name": "Plank", "description": "Core stabilization exercise.", "duration": 30, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo3MXRzNTMzdDVyd2JxeHlsMGtiN2hqamhuamR3bXRzenVuN2ZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlADRlF7SMFQRy/giphy.gif"},
+      {"name": "Burpees", "description": "High intensity full body exercise.", "duration": 25, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6bWlwd3c2dmFoMWZhbTgydGx0MHZyNXUxZTBmbnlvcWFvd3oycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxuGSIZU1QZfRiRx4h/giphy.gif"}
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Upper Body Strength",
+    "attributes": "Arms, Chest, Strength",
+    "imageUrl": "assets/restaurants/upperbody.png",
+    "imageCredits": "",
+    "difficulty": 4,
+    "items": [
+      {"name": "Push-ups", "description": "Classic upper body exercise.", "duration": 5, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnppbDhmM2hpZWwza3d6ZW05MjZxYjlpNm05Z3Z3MmJpc3FkNmxqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze1qkqPZHMrEuwo/giphy.gif"},
+      {"name": "Tricep Dips", "description": "Targets triceps using body weight.", "duration": 25, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA4YzFlc3lkMG02OTZmeTJ3emRkOWNscDlvY2F6eTdsdTRpOTJqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKdb2xwADyl3hQZmZh/giphy.gif"},
+      {"name": "Arm Circles", "description": "Warm-up for shoulders.", "duration": 20, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA4NDl6aGVjYnVob2d2dDIxMDBwZTRsNXZiMW9qZzV0bG4zczZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4wFZUKHNlHF2TfXsj/giphy.gif"},
+      {"name": "Plank Shoulder Taps", "description": "Core + shoulder stability.", "duration": 30, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp3bWI4bDQ4YmNjeWhxM3psdTAwcnF2dXJ0bnpsMXI1a3RhejhobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NkPeSnQNdQNZYSRluD/giphy.gif"},
+      {"name": "Incline Push-ups", "description": "Easier push-up variation.", "duration": 25, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXowZjkxczlhY3VlZWM4cTlxcTVvODdqaDRmdnlvZ3N0M2FheWg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZqfCJII5tz7zSLq0K/giphy.gif"},
+      {"name": "Punches", "description": "Shadow boxing for arms.", "duration": 20, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhhbGY1cjVpZmVzc2ZxbG1ibDlyajFhN3l5dXg3c2VkcHpzdnZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9UZZtlx87jSNsM0ZNB/giphy.gif"}
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Leg Day Power",
+    "attributes": "Legs, Strength, Endurance",
+    "imageUrl": "assets/restaurants/legs.jpg",
+    "imageCredits": "",
+    "difficulty": 4,
+    "items": [
+      {"name": "Squats", "description": "Basic lower body strength.", "duration": 40, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyYzFwZ2wxanJuZHVkdmphMHVyODZpMzNxd2J3eDN1enlzYWhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHyPJtOwPChKmF0LKg/giphy.gif"},
+      {"name": "Lunges", "description": "Balance and leg strength.", "duration": 30, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF2OGhndmF4ZDZtaGptNDY4eWNjZ29yc3o4dmI0eGk0aXNqbGw0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDta60HEH7374d4lSZ/giphy.gif"},
+      {"name": "Wall Sit", "description": "Static leg endurance.", "duration": 35, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F3OHBxdGpvZmpzZ2tidjRxejgxbGhlZmxocnEyYWxvMHJubGNqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fVq9MXzZEBYEo1c9ad/giphy.gif"},
+      {"name": "Glute Bridge", "description": "Targets glutes and core.", "duration": 30, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRneHY3eXRzeW4yb2hqNjViY3hhNGhvcWt0N25hZDJrb3BsZzFoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krmA7YIhRvwjJYbmrG/giphy.gif"},
+      {"name": "Calf Raises", "description": "Strengthens calves.", "duration": 5, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ3ZmR1anVnMTBhOXVkaDM4dHZ0amhkMThheXk1Z29kMG9kdWs4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGBbyHgaOfDfjyl41M/giphy.gif"},
+      {"name": "Jump Squats", "description": "Explosive leg power.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkxeW85cDl6ZW9zZ3hwZnZsczdsY3Rqa3B4NzJsZ3Z1aGJmc3ZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xU1ryd1OkMzbh9VwDR/giphy.gif"}
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Core & Abs",
+    "attributes": "Abs, Stability, Balance",
+    "imageUrl": "assets/restaurants/coreandabs.jpg",
+    "imageCredits": "",
+    "difficulty": 3,
+    "items": [
+      {"name": "Plank", "description": "Core endurance.", "duration": 30, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo3MXRzNTMzdDVyd2JxeHlsMGtiN2hqamhuamR3bXRzenVuN2ZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlADRlF7SMFQRy/giphy.gif"},
+      {"name": "Crunches", "description": "Abdominal strength.", "duration": 25, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHl0Y2phdmt2a2J6amoxNnJ1cjVkdDU3ZWRiYWR3b2o4YzBreDZ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xekSmUwcoD6SxzO/giphy.gif"},
+      {"name": "Leg Raises", "description": "Lower abs focus.", "duration": 25, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnowZ2djNzRidTJ1aWh0NnNkcGg2dDBnYThmYWdrNXZndXdiaHVnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgUWTHU1RzNHLyKBsv/giphy.gif"},
+      {"name": "Russian Twists", "description": "Oblique workout.", "duration": 30, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VrbzdndjNkbm1wMTBpZWNod3RiMjIxdnMwbHh5bHpic3JsYTVqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cpKD9u3S25xYL8tcbr/giphy.gif"},
+      {"name": "Mountain Climbers", "description": "Core + cardio.", "duration": 20, "imageUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF0dzloOTllZzhrNWg2eW5ra2NraGp5ZWhienRxZTc4NDExejA4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsYmets3thkLhcvZ43/giphy.gif"},
+      {"name": "Flutter Kicks", "description": "Lower abs endurance.", "duration": 25, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpOWFtcjBma2VmNGoweGxqbDJwZ3B3dGxwYjlncnJ4ZjMwMXFkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jbiA1NsHa50OS2MATH/giphy.gif"}
+    ]
+  },
+  {
+    "id": "4",
+    "name": "HIIT Blast",
+    "attributes": "Cardio, Fat Burn, Intense",
+    "imageUrl": "assets/restaurants/hiit.jpg",
+    "imageCredits": "",
+    "difficulty": 3,
+    "items": [
+      {"name": "Burpees", "description": "High intensity full body.", "duration": 25, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6bWlwd3c2dmFoMWZhbTgydGx0MHZyNXUxZTBmbnlvcWFvd3oycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxuGSIZU1QZfRiRx4h/giphy.gif"},
+      {"name": "High Knees", "description": "Fast cardio movement.", "duration": 20, "imageUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG96b3hhdTJ4dDhtdjl6b2d5cW0zeXZvNTNqd3g4azNsM2hsdGtpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/62aGqZoUJYtPsl0Hb0/giphy.gif"},
+      {"name": "Jumping Jacks", "description": "Warm-up cardio.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlNTFnYWxuazJwcGVidmdiNXg5NWY1ZXozZmtiaGI2bWN0dnFpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckMk3RKUK29lziaspI/giphy.gif"},
+      {"name": "Mountain Climbers", "description": "Cardio + core.", "duration": 25, "imageUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF0dzloOTllZzhrNWg2eW5ra2NraGp5ZWhienRxZTc4NDExejA4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsYmets3thkLhcvZ43/giphy.gif"},
+      {"name": "Jump Squats", "description": "Explosive cardio.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkxeW85cDl6ZW9zZ3hwZnZsczdsY3Rqa3B4NzJsZ3Z1aGJmc3ZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xU1ryd1OkMzbh9VwDR/giphy.gif"}
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Stretch & Mobility",
+    "attributes": "Stretching, Recovery",
+    "imageUrl": "assets/restaurants/mobility.jpg",
+    "imageCredits": "",
+    "difficulty": 2,
+    "items": [
+      {"name": "Neck Stretch", "description": "Relieves neck tension.", "duration": 15, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk2OWlpMWp6NnZhdXNieWs4eXZsZG4zd2Y4dG52ZTMwYWl4b2ZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHjoBNmZZZKY4cTk0O/giphy.gif"},
+      {"name": "Hamstring Stretch", "description": "Improves flexibility.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU2MWxwMzE3eGg4aWg1bnRzdTlsdGRhcDFldTRzNWJ1ODN2ZDdtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUHTbzTiNQ1WusRP6c/giphy.gif"},
+      {"name": "Quad Stretch", "description": "Leg muscle stretch.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFzNnFidWlubHo1NHN0aTAyM2M0Z2EzbnhiMWg1aXBrYWpiZXg5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BUKWBBqUUjqbIIBxq/giphy.gif"},
+      {"name": "Shoulder Stretch", "description": "Upper body flexibility.", "duration": 15, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG00NmhpZXZvcHFzbjVvd3M3eGZybXZyNTBjdjd2aTNnYXdia3V0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fcm0c16S0vJ9Wnaz00/giphy.gif"},
+      {"name": "Child Pose", "description": "Relaxation pose.", "duration": 25, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm55eTl3YXMyNXJxNzcxcnI1b3J0enZ3ODZwc3ZtaXAwbzJrM3MxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5LuNosBUoS9i7TN39/giphy.gif"},
+      {"name": "Cat-Cow", "description": "Spine mobility.", "duration": 20, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AxaWt2ZG9kYnU2M3B1MGpxNDI4MGN3anFmaWl4MTU2NWJ0Z2N2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JdtyfG3ZSE8iOlDs64/giphy.gif"}
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Cardio Focus",
+    "attributes": "Endurance, Heart Health",
+    "imageUrl": "assets/restaurants/cardio.jpg",
+    "imageCredits": "",
+    "difficulty": 3,
+    "items": [
+      {"name": "Jump Rope", "description": "Cardio endurance.", "duration": 30, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg1bzhzMno5aDBlcXU5N3o2ZWs0ZnZ5enRiOG1yNzRhaGg0cWhzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hb7rHspTr6Nqg/giphy.gif"},
+      {"name": "High Knees", "description": "Fast cardio.", "duration": 20, "imageUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG96b3hhdTJ4dDhtdjl6b2d5cW0zeXZvNTNqd3g4azNsM2hsdGtpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/62aGqZoUJYtPsl0Hb0/giphy.gif"},
+      {"name": "Butt Kicks", "description": "Leg cardio.", "duration": 20, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE0bDBxbjIza3loNHgwZ2U0MGRpcmV6YzJzbW90b3QwYXl5ZDBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hp3PGxGMODVQnULnqz/giphy.gif"},
+      {"name": "Jumping Jacks", "description": "Full body cardio.", "duration": 25, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlNTFnYWxuazJwcGVidmdiNXg5NWY1ZXozZmtiaGI2bWN0dnFpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckMk3RKUK29lziaspI/giphy.gif"},
+      {"name": "Burpees", "description": "High intensity cardio.", "duration": 25, "imageUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV6bWlwd3c2dmFoMWZhbTgydGx0MHZyNXUxZTBmbnlvcWFvd3oycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxuGSIZU1QZfRiRx4h/giphy.gif"}
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Morning Activation",
+    "attributes": "Light, Daily Routine",
+    "imageUrl": "assets/restaurants/morning.jpg",
+    "imageCredits": "",
+    "difficulty": 3,
+    "items": [
+      {"name": "Stretching", "description": "Wake up muscles.", "duration": 15, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNzMGxja3o0aHI2ZDh5dGt2emFldHZzMWdiZHR1NGVzcmViZzh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuqBhAVAXD4nC/giphy.gif"},
+      {"name": "Jumping Jacks", "description": "Light cardio start.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZlNTFnYWxuazJwcGVidmdiNXg5NWY1ZXozZmtiaGI2bWN0dnFpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckMk3RKUK29lziaspI/giphy.gif"},
+      {"name": "Arm Circles", "description": "Warm up shoulders.", "duration": 15, "imageUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA4NDl6aGVjYnVob2d2dDIxMDBwZTRsNXZiMW9qZzV0bG4zczZnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4wFZUKHNlHF2TfXsj/giphy.gif"},
+      {"name": "Squats", "description": "Activate legs.", "duration": 25, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyYzFwZ2wxanJuZHVkdmphMHVyODZpMzNxd2J3eDN1enlzYWhiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHyPJtOwPChKmF0LKg/giphy.gif"},
+      {"name": "Plank", "description": "Core activation.", "duration": 20, "imageUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo3MXRzNTMzdDVyd2JxeHlsMGtiN2hqamhuamR3bXRzenVuN2ZhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWZfYnlfaWQmY3Q9Zw/d3mlADRlF7SMFQRy/giphy.gif"},
+      {"name": "Deep Breathing", "description": "Relax and focus.", "duration": 10, "imageUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRmOG4xaHp5OTUyNWRreGQzY2lhNnkxMWRhNmIxYjg2ZWt4bWFlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtqQSt7MKUV7W4TdDh/giphy.gif"}
+    ]
+  }
+]
